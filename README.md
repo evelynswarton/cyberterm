@@ -1,8 +1,8 @@
-# h4xt3rm
+# // CYBERTERM //
 
 A neon green-on-black terminal theme with colorful accents, for a futuristic aesthetic.
 
-![h4xt3rm Preview](preview.png)
+![CYBERTERM Preview](preview.png)
 
 ---
 
